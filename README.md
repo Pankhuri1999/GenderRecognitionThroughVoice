@@ -1,10 +1,12 @@
 # GenderRecognitionThroughVoice
-This project is an independent attempt to research about human voices in terms of gender, age and emotion. Presently, I am in the first phase of this project, where I am trying to collect different dataset for the same. I am looking over tutorial on Internet to see different ways of implementing this project and how much work has been done on it.
+This project is an attempt to know more about human voices and how they can be used to predict gender. I have used voxforge dataset and I am continuing to make improvements in it .
 
-As of now, I am using these two links as my tutorials for this project.
 
+References used  - 
 https://thepythoncode.com/article/gender-recognition-by-voice-using-tensorflow-in-python#google_vignette
-
-https://www.primaryobjects.com/2016/06/22/identifying-the-gender-of-a-voice-using-machine-learning/
+https://github.com/jiwidi/voice_gender_recognition?tab=readme-ov-file
+https://www.primaryobjects.com/2016/06/22/identifying-the-gender-of-a-voice-using-machine-learning
+https://github.com/x4nth055/gender-recognition-by-voice/tree/master
+https://github.com/sharansankar/gender_recognition_svm/tree/master
 
 
